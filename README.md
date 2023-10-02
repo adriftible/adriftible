@@ -3,4 +3,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriftible&layout=compact&theme=radical)
 
 ## About me! 🧑‍🦱
-I'm a teenager developing projects as a hobby such as [JAGDC/simdocs](https://github.com/JAGDC/simdocs) and more!
+I'm a teenager developing projects as a hobby!
