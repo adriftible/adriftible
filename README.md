@@ -3,4 +3,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriftible&layout=compact&theme=radical)
 
 ## About me! 🧑‍🦱
-I'm a teenager developing projects as a hobby!
+I'm a 13-year-old currently attending 8th grade as a scholar at heart and I love programming as a side hobby and future career of mine.
